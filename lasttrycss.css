@@ -1,0 +1,31 @@
+div{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 40px;
+}
+img{
+    margin-top:80px;
+    margin-bottom:100px;
+    margin-right:250px;
+    width:150px;
+    height:150px;
+}
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular';
+    font-weight: bold;
+    font-size:55pt;
+}
+h2{
+    font-family:"Serif";
+    font-size:45pt;
+    margin:10px;
+}
+p{
+   padding:76px;
+    font-size:28pt;
+    background-color:white;
+}
+a{
+    background-color: white;
+}
